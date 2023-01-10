@@ -4,3 +4,5 @@ Yarn
 Plate
 Oranges
 Bananas
+Milk
+Cereal
